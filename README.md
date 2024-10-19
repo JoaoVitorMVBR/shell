@@ -7,7 +7,7 @@ This project implements a simple shell written in C, capable of interpreting and
 - [Overview](#overview)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation] (#Installation)
+- [Installation](#installation)
 - [How to use](#how-to-use)
 - [Internal Commands](#internal-commands)
 - [Code Structure](#code-structure)
@@ -34,15 +34,13 @@ This simple shell is a command line program that allows the execution of operati
 
 1. Clone this repository:
    `bash
-   git clone https://github.com/seuusuario/shell-simples-em-c.git
+   git clone https://github.com/JoaoVitorMVBR/shell
 
-2. Enter the folder:
-   `bash
-    cd shell-simple-in-c
+2. Enter the folder
 
 3. Compile the file
     `bash
-    gcc main. c -o sh.exe
+    gcc main.c -o sh.exe
 
 ## Internal Commands
 
