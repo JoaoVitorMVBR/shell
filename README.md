@@ -34,7 +34,7 @@ This simple shell is a command line program that allows the execution of operati
 
 1. Clone this repository:
    `bash
-   git clone https://github.com/JoaoVitorMVBR/shell
+   git clone https://github.com/JoaoVitorMVBR/shell.git
 
 2. Enter the folder
 
