@@ -7,7 +7,7 @@ This project implements a simple shell written in C, capable of interpreting and
 - [Overview](#overview)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation] (#installation)
+- [Installation] (#Installation)
 - [How to use](#how-to-use)
 - [Internal Commands](#internal-commands)
 - [Code Structure](#code-structure)
